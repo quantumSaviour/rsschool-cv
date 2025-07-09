@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/quantumSaviour/rsschool-cv/blob/gh-pages/cv.md
