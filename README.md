@@ -1,1 +1,1 @@
-# rsschool-cv
+https://quantumsaviour.github.io/rsschool-cv/
