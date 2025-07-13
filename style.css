@@ -149,6 +149,10 @@ header {
 	font-size: 0.9rem;
 }
 
+.projects__list {
+	list-style-type: none;
+}
+
 pre {
 	background: #2d2d2d;
 	color: #f8f8f2;
@@ -197,11 +201,23 @@ pre {
 }
 
 @media (max-width: 600px) {
+	h1 {
+		margin-top: 0;
+	}
+
   .nav__list {
     flex-wrap: wrap;
     gap: 15px;
     padding: 10px;
     justify-content: center;
+  }
+
+  .header__intro {
+  	flex-direction: column-reverse;
+  }
+
+  .cv-avatar {
+  	margin-top: 1rem;
   }
 
   .footer {
